@@ -1,6 +1,6 @@
 {
   "name": "howcomplete",
-  "main": "howcomplete.js",
+  "main": "js/howcomplete.js",
   "version": "0.0.0",
   "homepage": "https://github.com/hiteshsharma/howcomplete.js",
   "authors": [
