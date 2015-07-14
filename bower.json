@@ -1,0 +1,25 @@
+{
+  "name": "howcomplete",
+  "main": "howcomplete.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hiteshsharma/howcomplete.js",
+  "authors": [
+    "Hitesh Sharma <hitesh@slideshare.com>"
+  ],
+  "description": "A jQuery plugin to calculate how much complete a form or page is",
+  "keywords": [
+    "jQuery",
+    "plugin",
+    "completion",
+    "form",
+    "calculate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
