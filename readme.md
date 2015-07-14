@@ -1,6 +1,10 @@
 # HowComplete.js
 
-A Jquery plugin to which tells you that how much a user has filled your form or page. 
+A Jquery plugin to which tells you that how much a user has filled your form or page. You might want to tell user that he has filled the page just 35% or you can use the plugin to show user some derived metric like virality score or profile strength.
+
+# Demo
+
+Try <a href="http://www.slideshare.net/upload" title="Demo">Uploading to SlideShare</a> for a demo (Look for discoverability bar after selecting a file)
 
 # Installation
 
@@ -9,7 +13,7 @@ A Jquery plugin to which tells you that how much a user has filled your form or 
 # Usage
 
 Assume you have 2 text inputs, one select input and one checkbox on your page
-    
+
     <input type="text" id="input1" />
     <input type="text" id="input2" />
     <select id="select1">
