@@ -1,0 +1,27 @@
+{
+  "name": "howcomplete",
+  "version": "0.1.1",
+  "description": "A Jquery plugin to which tells you that how much a user has filled your form or page. You might want to tell user that he has filled the page just 35% or you can use the plugin to show user some derived metric like virality score or profile strength.",
+  "main": "js/howcomplete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiteshsharma/howcomplete.js.git"
+  },
+  "keywords": [
+    "jQuery",
+    "plugin",
+    "form",
+    "complete",
+    "virality",
+    "discoverability"
+  ],
+  "author": "Hitesh Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiteshsharma/howcomplete.js/issues"
+  },
+  "homepage": "https://github.com/hiteshsharma/howcomplete.js#readme"
+}
