@@ -1,4 +1,4 @@
-// $(form).completeness({
+// $(form).howcomplete({
 //   elements : [
 //     {
 //       element: $(ele1),
@@ -22,12 +22,12 @@
 // })
 
 (function($, Factory){
-  $.fn.completeness = function(options, callback){
+  $.fn.howcomplete = function(options, callback){
     var returnData = null;
 
     this.each(function(){
       var element = $(this);
-      var instance = element.data("completeness");
+      var instance = element.data("howcomplete");
       if(options === "disable"){
         instance && instance.disable();
         callback && callback.call(this);
@@ -36,7 +36,7 @@
         callback && callback.call(this);
       } else if(!instance){
         instance = init(element, options);
-        element.data('completeness', instance);
+        element.data('howcomplete', instance);
       } else {
         returnData = instance.calculateCompleteness();
       }
@@ -106,7 +106,7 @@
     };
   };
 
-  $.fn.completeness.defaults = {
+  $.fn.howcomplete.defaults = {
     elements: [],
     calculateOn: "blur"
   };
