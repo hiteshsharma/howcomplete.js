@@ -1,6 +1,6 @@
 {
   "name": "howcomplete",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A Jquery plugin to which tells you that how much a user has filled your form or page. You might want to tell user that he has filled the page just 35% or you can use the plugin to show user some derived metric like virality score or profile strength.",
   "main": "js/howcomplete.js",
   "scripts": {
