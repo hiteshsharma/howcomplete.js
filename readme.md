@@ -6,6 +6,8 @@ A Jquery plugin to which tells you that how much a user has filled your form or 
 
 Try <a href="http://www.slideshare.net/upload" title="Demo">Uploading to SlideShare</a> for a demo (Look for discoverability bar after selecting a file)
 
+or try this https://jsfiddle.net/hiteshsharma/w1mzc52o/
+
 # Installation
 
     bower install howcomplete.js
