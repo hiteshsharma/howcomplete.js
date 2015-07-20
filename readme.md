@@ -10,6 +10,12 @@ or try this https://jsfiddle.net/hiteshsharma/w1mzc52o/
 
 # Installation
 
+You can get it on npm.
+
+    npm install howcomplete
+
+Or bower,
+
     bower install howcomplete.js
 
 # Usage
